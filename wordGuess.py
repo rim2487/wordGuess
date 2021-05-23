@@ -1,6 +1,6 @@
 import random
 
-
+# A global variable named 'n' to store the random number
 global n
 
 # printing out the clues to a list
