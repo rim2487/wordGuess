@@ -42,7 +42,6 @@ while guesses_counter != 0:
 
     randomNumber()
     n = random.choice(randomNumber())
-    print("N is",n)
     if guess == secret_word:
         print("Congratulations. You guessed the correct word!")
         break
